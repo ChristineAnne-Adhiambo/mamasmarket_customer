@@ -9,6 +9,7 @@ const products=[
         product:"Beans",
         price:50
     }
+    
 ]
 
 export {
